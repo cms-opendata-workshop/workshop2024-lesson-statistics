@@ -225,7 +225,11 @@ We can multiply the signal strength limit with the theoretically predicted cross
 
 :::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::: keypoints
 
+- FIXME
+
+:::::::::::
 
 
 
