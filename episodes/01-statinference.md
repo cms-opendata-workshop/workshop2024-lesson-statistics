@@ -20,7 +20,7 @@ exercises: 0
 
 :::::::::::
 
-::: callout
+::::: callout
 
 ## Reference Material
 - [Combine Manual](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit/wiki)
@@ -36,9 +36,9 @@ exercises: 0
 - [Procedure for the LHC Higgs boson search combination in Summer 2011](https://cds.cern.ch/record/1379837) - Paper describing LHC statistical procedures
 - [Combine Github](https://github.com/cms-analysis/HiggsAnalysis-CombinedLimit) - Github repository for combine
 - [LPC statistics course](https://indico.cern.ch/event/653271/) - Lectures by Harrison Prosper and Ulrich Heintz, fall 2017
-:::
+:::::
 
-::: callout
+::::: callout
 # Terminology and Conventions
 Here we give pragmatic definitions for a few basic concepts that we will use.
 
@@ -55,7 +55,13 @@ Here we give pragmatic definitions for a few basic concepts that we will use.
 - **Bayesian** - a school of statistical inference based on the likelihood and a prior.
 - **frequentist** - a school of statistical inference based on the likelihood only.
 
-:::
+:::::
+
+::::::::: keypoints
+
+- FIXME
+
+::::::::::::
 
 
 
